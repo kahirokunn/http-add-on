@@ -7,3 +7,4 @@ metadata:
 spec:
   type: ExternalName
   externalName: keda-http-add-on-interceptor-proxy.keda
+
